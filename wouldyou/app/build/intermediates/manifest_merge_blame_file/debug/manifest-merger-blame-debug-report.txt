@@ -1,0 +1,51 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.wouldyou"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.REORDER_TASKS" />
+11-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml:5:5-72
+11-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml:5:22-69
+12
+13    <application
+13-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml:6:5-20:19
+14        android:allowBackup="true"
+14-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml:7:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.2.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\c4f6d4015757376d628b196fc1c781b3\core-1.2.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml:8:9-43
+18        android:label="@string/app_name"
+18-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml:9:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml:10:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml:11:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.Wouldyou" >
+22-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml:12:9-46
+23        <activity android:name="com.example.wouldyou.MainActivity" >
+23-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml:13:9-19:20
+23-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml:13:19-47
+24            <intent-filter>
+24-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml:14:13-18:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml:15:17-69
+25-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml:15:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml:17:17-77
+27-->C:\Users\LENOVO\AndroidStudioProjects\wouldyou\app\src\main\AndroidManifest.xml:17:27-74
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>
