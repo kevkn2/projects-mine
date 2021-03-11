@@ -1,2 +1,0 @@
-com/example/wouldyou/BuildConfig.java
- com.example.wouldyou.BuildConfig
